@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Diary_3
+  - Photo
+  - Diary_1
+  - Diary_2
+  - BookShelf
+  - Safe
+  - Key_Door
+  - Table
+  - Chest
+  - Key_Drawer
+  - Drawer
+  - Generator
+  - Battery
+  - Phone
+  - Elevator
+  - GeneratorControll
+  - Corpse
+  - CardKey1
+  - CardKey2
+  - CardKey3
+  - KeyPad1
+  - KeyPad2
+  - KeyPad3
+  - DoorKeyPad
+  - HandLight
+  - Obstacle
+  - EscapeKeypad
+  - Fuse
+  - BreakDoor
+  - DreamDoor
+  - Desktop
+  - paper
+  - helicopter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ItemUI
+  - Fire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
